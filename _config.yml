@@ -23,7 +23,7 @@ repository               : "baymax-fred/fredfangzf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "images/themes/FRED.jpg"
   name             : "Zanfeng Fang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Zanfeng Fang"
+  linkedin         : "zanfeng-fang-563318390"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

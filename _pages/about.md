@@ -14,6 +14,6 @@ My research interest includes wireless power transfer (WPT), modeling and contro
 
 I am very fortunate to be advised by [Prof. Yan Lu](https://web.ee.tsinghua.edu.cn/luyan/zh_CN/index.htm) in Tsinghua University with co-supervisor [Prof. Mo Huang](https://www.fst.um.edu.mo/personal/mohuang/) in University of Macau.
 
-I was advised by [Prof. Bo Zhang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=woYYKFmSSJj2JJAv1WpdWQ==)(IEEE Fellow) from [School of Electric Power Engineering](https://www2.scut.edu.cn/ep/) in [South China University of Technology](https://www.scut.edu.cn/new/).
+I was advised by [Prof. Bo Zhang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=woYYKFmSSJj2JJAv1WpdWQ==) (IEEE Fellow) from [School of Electric Power Engineering](https://www2.scut.edu.cn/ep/) in [South China University of Technology](https://www.scut.edu.cn/new/).
 
-[Email](mailto:fredfangzf@outlook.com or fred.fangzf@connect.um.edu.mo)
+Email: fredfangzf@outlook.com or fred.fangzf@connect.um.edu.mo

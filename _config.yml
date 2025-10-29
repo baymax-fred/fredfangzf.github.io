@@ -23,7 +23,7 @@ repository               : "baymax-fred/fredfangzf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "FRED.jpg"
+  avatar           : "profile.png"
   name             : "Zanfeng Fang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?user=se-ypwwAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=se-ypwwAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1982-497X"

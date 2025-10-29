@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zanfeng Fang / Site Title"
+title                    : "Zanfeng Fang (Fred Fang, 方赞峰)"
 title_separator          : "-"
 name                     : &name "Zanfeng Fang"
 description              : &description "Zanfeng Fang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://fredfangzf.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://fredfangzf.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "baymax-fred/fredfangzf.github.io"
@@ -23,11 +23,11 @@ repository               : "baymax-fred/fredfangzf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/themes/FRED.jpg"
-  name             : "Zanfeng Fang"
+  avatar           : "images/FZF.png"
+  name             : "Zanfeng Fang (方赞峰)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
-  location         : "Macau, China"
+  bio              : "Ph.D. Candidate, PE, UM"
+  location         : "Macau SAR"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "fred.fangzf@connect.um.edu.mo" 

@@ -4,6 +4,6 @@ excerpt: "Experimental setup and results: waveforms of inverter, output power an
 collection: portfolio
 ---
 
-<ul>{% for post in site.publications reversed %}
+<ul>{% if site.publications.title == "Analysis and Design of Three-Coil Wireless Power Transfer System with Split Transmitting Coils" %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endif %}</ul>

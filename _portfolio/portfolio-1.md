@@ -8,4 +8,4 @@ This is the experimental setup for a three-coil WPT system. Experimental wavefor
 
 The output power and efficiency are tested with the variation of frequencies.
 
-![CIEEC 2024](baymax-fred.github.io/fredfangzf.github.io/images/CIEEC_exp.png)
+![CIEEC 2024](CIEEC_exp.png)

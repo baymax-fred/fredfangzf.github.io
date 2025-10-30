@@ -1,6 +1,6 @@
 ---
 title: "CIEEC 2024"
-excerpt: "Experimental setup and results<br/><img src='/images/CIEEC_exp.png'>"
+excerpt: "Experimental setup and results<br/><img src='baymax-fred.github.io/fredfangzf.github.io/images/CIEEC_exp.png'>"
 collection: portfolio
 ---
 

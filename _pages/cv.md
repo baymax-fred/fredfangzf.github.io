@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrial and Computer Engineering (ECE), University of Macau (UM), 2026 (expected)
+* M.S. in Power Electronics and Power Drives, South China University of Technology (SCUT), 2017
+* B.S. in Electrical Engineering and Automation, Beijing Jiaotong University (BJTU), 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan. 2019 - Jul. 2022: Research Assistant
+  * Zhejiang University (ZJU)
+  * Duties includes: Modeling for WPT systems, and simulation for WPT windings
+  * Supervisor: Prof. Wenxing Zhong
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors and Awards
+======
+* National Postgraduate Mathematic Contest in Modeling, China, third prize, Dec. 2016.
+* CSEE Cup 2016 National University Students Electrical Math Modeling Competition, China, third prize, Aug. 2016.
+* "Challenge Cup" Science and Technology College of extra-curricular academic competition works, Guangdong, China, second prize, Aug. 2015.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: competent in C, Java.
+* Softwares: proficient in PSIM, MATLAB, ANSYS MAXWELL, LTspice.
+* IELTS 6.5.
 
 Publications
 ======
@@ -47,18 +40,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* ZL 2019 1 0609969.1
+* ZL 2019 1 0227140.5
+* ZL 2019 1 0227487.X
+* ZL 2019 1 0227135.4
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
